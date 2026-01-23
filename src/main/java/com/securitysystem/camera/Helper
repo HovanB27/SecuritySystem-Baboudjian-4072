@@ -1,0 +1,1 @@
+rsync -avz /Users/hovanbaboudjian/Desktop/SecuritySystem/ hovannesb14@192.168.1.195:~/SecuritySystem/ to sync changes
